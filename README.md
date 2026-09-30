@@ -2,9 +2,6 @@
 
 **Computational analysis of MDA5 driven innate immune signaling in COVID 19 and its convergence with idiopathic pulmonary fibrosis.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-
 ## Overview
 
 This repository contains the analysis code accompanying our study on shared molecular pathology between severe COVID 19 and idiopathic pulmonary fibrosis (IPF). We identify an MDA5 anchored viral sensing and interferon program that appears in both diseases and use Boolean implication networks to derive a testable therapeutic hypothesis.
